@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarlenH3, a full time Computer Science student at Rutgers University.
 - 👀 I’m interested in Front End and Full Stack Development.
-- 🌱 I’m currently learning React, Node, and JS.
-- 💞️ I’m currently looking for a Full Time Development position
+- 🌱 I’m currently learning Angular and Super CSS.
+- 💞️ I’m currently working as an Application Engineer at Vanguard
 - 📫 You can reach me at herreramarlen4@gmail.com.
 
 <!---
