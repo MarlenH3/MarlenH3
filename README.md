@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MarlenH3, a recent graduate of Rutgers University!
+- 👋 Hi, I’m @MarlenH3!
+- 💞️ I’m an Application Engineer at Vanguard!
 - 👀 I’m interested in Front End and Full Stack Development.
-- 🌱 I’m currently learning Angular and Super CSS.
-- 💞️ I’m currently working as an Application Engineer at Vanguard
+- 🌱 I’m currently working on some side projects focused on Front End Design.
 - 📫 You can reach me at herreramarlen4@gmail.com.
 
 <!---
